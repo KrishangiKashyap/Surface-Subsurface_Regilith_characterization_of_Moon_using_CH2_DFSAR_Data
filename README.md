@@ -5,3 +5,7 @@ First step of analysis is as follows - fully polarimetric Seleno-Referenced Imag
 Main tasks are to characterize the properties of target present on the particular Faustini crater PSR by doing polarimetric decomposition and retrieving dielectric constant using IEM backscatter model with the help ANN model. 
 
 A few pictures of HH, HV and VV polarized backscattered energy of the region are shown below, 
+
+![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/cate%20vs%20apps.png?width=30&height=3)
+![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/cate%20vs%20apps.png?width=30&height=3)
+![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/cate%20vs%20apps.png?width=30&height=3)
