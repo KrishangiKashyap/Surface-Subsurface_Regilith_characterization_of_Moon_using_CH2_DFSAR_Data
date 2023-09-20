@@ -10,5 +10,4 @@ A few pictures of HH, HV and VV polarized backscattered energy of the region are
 
 ![Image of Photo](https://github.com/KrishangiKashyap/Surface-Subsurface_Regilith_characterization_of_Moon_using_CH2_DFSAR_Data/blob/main/download%20(1).png?width=40&height=5)
 
-![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/cate%20vs%20apps.png?width=30&height=3)
-
+![Image of Photo](https://github.com/KrishangiKashyap/Surface-Subsurface_Regilith_characterization_of_Moon_using_CH2_DFSAR_Data/blob/main/download%20(2).png?width=40&height=5)
